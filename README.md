@@ -1,0 +1,1 @@
+This package will conatinas a lot of different placeholders which you can use in case when data is not ready
