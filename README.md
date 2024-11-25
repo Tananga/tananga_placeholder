@@ -1,1 +1,1 @@
-This package will conatinas a lot of different placeholders which you can use in case when data is not ready
+This package contains Placeholders which are used in Tananga <tananga.com> apps.

@@ -9,11 +9,11 @@ import 'package:flutter/material.dart';
 // }
 
 class TanangaPlaceholder {
-  static Widget rectangle() {
-    return Container(
-      height: 50,
-      width: 100,
-      color: Colors.grey,
+  static Widget Loader({
+    required Color color,
+  }) {
+    return CircularProgressIndicator(
+      color: color,
     );
   }
 }
