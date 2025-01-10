@@ -1,1 +1,1 @@
-This package contains Placeholders which are used in Tananga <tananga.com> apps.
+https://pub.dev/packages/tananga_placeholder
